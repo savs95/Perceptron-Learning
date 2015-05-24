@@ -5,6 +5,7 @@
 ```
 -$ python pla.py
 ```
--The graph shows target function in yellow and the hypothesis in blue
--Notice how close both get as the number of points increase
+-The graph shows target function in yellow and the hypothesis in blue  
+-Notice how close both get as the number of points increase  
+-100pts.png shows the same for 100 points as input  
 ###Uses Python 2.7 with numpy, matplotlib
